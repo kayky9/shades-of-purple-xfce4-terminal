@@ -1,0 +1,1 @@
+🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Xfce4 Terminal.
